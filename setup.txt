@@ -1,0 +1,21 @@
+1. "USERNAME":  #here instagram profile username
+
+2. "PASSWORD" : #instagram user password field
+
+3. Install a chrome driver of  your current chrome browser version 
+
+link : https://googlechromelabs.github.io/chrome-for-testing/
+
+4. set its path in below chrome driver like this
+
+"CHROME_DRIVER":"C:/Users/Lenovo/Downloads/chromedriver-win64/chromedriver-win64/chromedriver.exe",   
+
+4. use any directory just to store all the session details to not get blocked by instagram again and again----
+
+"PROFILE_PATH":"C:/Users/Lenovo/selenium_profiles/instagram_profile"   
+
+5. Now run logintoinstagram.py
+
+6. Now you can run any of the file based on your need
+---------->  followerlistscraper.py 
+---------->  followinglistscraper.py
