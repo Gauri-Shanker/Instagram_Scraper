@@ -16,3 +16,4 @@ for /d %%F in ("%PROFILE_DIR%\*") do (
 
 echo [✔] Cleanup complete. Only 'instagram_profile' retained.
 pause
+
